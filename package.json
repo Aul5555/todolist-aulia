@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@heroicons/react": "^2.2.0",
     "firebase": "^11.6.0",
     "framer-motion": "^12.6.5",
     "next": "15.3.0",
@@ -19,7 +20,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/node": "^20.17.30",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
